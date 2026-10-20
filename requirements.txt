@@ -1,0 +1,13 @@
+# Core Data Modeling & Validation
+pydantic>=2.7.0
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=8.0.0
+
+# Discovery APIs
+google-api-python-client>=2.100.0
+
+# Demonstration Interface & Data Analysis
+pandas>=2.2.0
+streamlit>=1.35.0

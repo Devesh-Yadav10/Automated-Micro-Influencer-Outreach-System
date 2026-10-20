@@ -1,0 +1,2 @@
+# Preserves data directory structure in Git while ignoring SQLite database binaries.
+

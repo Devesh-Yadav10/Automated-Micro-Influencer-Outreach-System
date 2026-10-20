@@ -1,0 +1,16 @@
+name,platform,profile_url,handle,follower_count,engagement_rate,niche,content_themes,contact_email,bio,source_url,collection_date,verification_status
+# INSTRUCTIONS:
+# - name: Creator or channel display name (required)
+# - platform: 'youtube', 'instagram', or other social platform (required)
+# - profile_url: Full URL to creator profile (required)
+# - handle: Platform handle or channel ID, e.g. '@creatorhandle'
+# - follower_count: Verified subscriber or follower count (integer >= 0)
+# - engagement_rate: Verified engagement rate percentage (e.g. 3.5 for 3.5%). Leave empty if unknown.
+# - niche: Primary category, e.g. 'Technology / AI / Machine Learning'
+# - content_themes: Comma-separated list or JSON array of topics, e.g. 'Python, Machine Learning, AI Agents'
+# - contact_email: Publicly disclosed business email address. If not genuinely available, write 'Not Found' or leave empty.
+# - bio: Public channel description or profile bio
+# - source_url: URL where metadata was retrieved
+# - collection_date: ISO 8601 date, e.g. 2026-10-20T10:00:00Z
+# - verification_status: e.g. 'verified_public_data', 'api_verified'
+

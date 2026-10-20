@@ -1,0 +1,4 @@
+name,platform,profile_url,handle,follower_count,engagement_rate,niche,content_themes,contact_email,bio,source_url,collection_date,verification_status
+"[FICTIONAL TEST ONLY] Synthetic Creator One",youtube,https://youtube.com/@fictional_ai_one,@fictional_ai_one,25000,4.1,Technology / AI / Machine Learning,"Python, Deep Learning, PyTorch",fictional_one@example.com,"Synthetic creator description for automated tests only. Business inquiries: fictional_one@example.com",https://youtube.com/@fictional_ai_one,2026-10-20T00:00:00Z,fictional_example_do_not_import
+"[FICTIONAL TEST ONLY] Synthetic Creator Two",youtube,https://youtube.com/@fictional_ai_two,@fictional_ai_two,55000,,Technology / AI / Machine Learning,"Machine Learning, AI Agents",Not Found,"Synthetic creator sharing weekly research breakdowns. No public email.",https://youtube.com/@fictional_ai_two,2026-10-20T00:00:00Z,fictional_example_do_not_import
+
